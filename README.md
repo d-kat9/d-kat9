@@ -6,7 +6,7 @@ My name is Katya (short for Ekaterina) and I am a front-end developer currently 
 ### Languages and tools
 _
 
-<i class="fa-brands fa-html5"></i> 
+
 
 
 
