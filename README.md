@@ -7,7 +7,7 @@ My name is Katya (short for Ekaterina) and I am a front-end developer currently 
 
 + HTML5/Semantic HTML, HTML Forms
 + CSS3, Flexbox, Grid
-+ JavaScript(ES6+), JS Testing, React, Redux
++ JavaScript(ES6+)
 + Website Design: Wireframes, Prototypes, Color Theory, Text Design
 + GitHub
 + Git and the Command Line
